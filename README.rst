@@ -14,7 +14,7 @@ Submodules
 
 bigip
 ^^^^^
-Python API for configuring objects on a BIG-IP device and gathering information
+Python API for configuring objects on a YK device and gathering information
 from the device via the REST API.
 
 Installation
