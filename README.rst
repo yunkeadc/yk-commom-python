@@ -22,7 +22,7 @@ Installation
 
 .. code:: shell
 
-    $> pip install f5-sdk
+    $> pip install yk-sdk
 
 *NOTE:* If you are using a pre-release version you must use the ``--pre``
 option for the ``pip`` command.
@@ -32,7 +32,7 @@ Usage
 
 .. code:: python
 
-    from f5.bigip import BigIP
+    from yk.adc import YK-ADC
 
     # Connect to the BigIP
     bigip = BigIP("bigip.example.com", "admin", "somepassword")
